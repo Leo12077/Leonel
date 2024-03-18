@@ -1,0 +1,53 @@
+.Encabezado{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: 3px 3px 5px gold;
+
+}
+
+.EncabezadoP{
+    display: inline;
+    padding-left: 100px;
+    color:black;
+    text-decoration: none;
+    text-shadow: 3px 3px 5px aquamarine;
+
+}
+
+#Fondo{
+    background-image: url("FondoGF.png");
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.P1{
+    float: left;
+    width: 50%;
+    height: 60%;
+    text-align: justify;
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 18px;
+    text-shadow: 3px 3px 5px gray;
+
+}
+
+.T1{
+    float: left;
+    width: 50%;
+    height: 80%;
+    text-align: center;
+}
+
+.P2{
+    color: aliceblue;
+    font-size: 18px;
+    margin-right: 50px;
+    text-align: justify;
+    text-shadow: 3px 3px 5px gray;
+}
+
+.T2{
+    text-align: center;
+}

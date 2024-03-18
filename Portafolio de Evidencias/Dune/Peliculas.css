@@ -1,0 +1,94 @@
+*{
+    background-color: #FEEC7E;
+}
+
+.Encabezado{
+    background-color: #652F09;
+    color: #FFFAFA;
+    height: 57PX;
+    border-style: solid #652f09;
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+.cabeza1{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+.cabeza3{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+.cabeza4{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+
+.deneni{
+    background-color: #652F09;
+    text-align: center;
+    color: #FFFAFA;
+    text-decoration: none;
+}
+
+.Cuadro1{
+    background-color:#9E5402 ;
+    text-align: center;
+}
+
+.CuadroP1{
+    background-color:#9E5402 ;
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+
+
+}
+
+.MCuadro{
+    margin-top: 5%;
+    margin-left: 1%;
+    float: left;
+    background-color:#9E5402 ;
+    width: 30%;
+    height: 70%;
+    border-radius: 40px;
+    font-size: 20px
+}
+
+.Cuadro2{
+    background-color:#9E5402 ;
+    text-align: center;
+}
+
+.CuadroP2{
+    background-color:#9E5402 ;
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+
+
+}
+
+
+.Cuadro3{
+    background-color:#9E5402 ;
+    text-align: center;
+}
+
+.CuadroP3{
+    background-color:#9E5402 ;
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+}
+
+

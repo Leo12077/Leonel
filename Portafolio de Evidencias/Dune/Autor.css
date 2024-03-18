@@ -1,0 +1,69 @@
+*{
+    background-color: #FEEC7E;
+}
+
+.Encabezado{
+    background-color: #652F09;
+    color: #FFFAFA;
+    height: 57PX;
+    border-style: solid #652f09;
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+.cabeza2{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+.cabeza3{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+.cabeza4{
+    background-color: #652F09;
+    color: #FFFAFA;
+    text-decoration: none;
+    padding-left: 300px;
+}
+
+
+.deneni{
+    background-color: #652F09;
+    text-align: center;
+    color: #FFFAFA;
+    text-decoration: none;
+}
+
+.Cuadro{
+    background-color:#DBA84C ;
+    text-align: center;
+}
+
+.CuadroP{
+    background-color:#DBA84C ;
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+
+}
+
+.MCuadro{
+    margin-top: 5%;
+    float: right;
+    background-color:#DBA84C ;
+    width: 70%;
+    height: 70%;
+    border-radius: 40px;
+    font-size: 20px
+}
+
+.img{
+    margin-top: 7%;
+}
